@@ -1,3 +1,10 @@
 # AWS Project Architect and Build an End to End AWS Web Application from Scratch
 
-<img width="856" alt="Screenshot 2023-11-06 at 09 12 15" src="https://github.com/redjules/-AWS-Project---Architect-and-Build-an-End-to-End-AWS-Web-Application-from-Scratch/assets/106017493/7f41e90f-4504-47be-b7d4-fa7501d02860">
+
+AWS services used in this project:
+![image](https://github.com/redjules/-AWS-Project---Architect-and-Build-an-End-to-End-AWS-Web-Application-from-Scratch/assets/106017493/50f850f3-6de8-41a6-881f-e625a392f9cc)
+
+
+Final website:
+
+![image](https://github.com/redjules/-AWS-Project---Architect-and-Build-an-End-to-End-AWS-Web-Application-from-Scratch/assets/106017493/d15bebec-1c6f-4cd1-abd8-f94f50eb52b1)
